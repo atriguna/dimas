@@ -1,3 +1,13 @@
+*** Settings ***
+Library   Selenium2Library    timeout=10   
+Library   OperatingSystem
+***Variables***
+${Browser}      Firefox
+${SiteUrl}      https://kitabisa.com
+${Delay}        2s
+${fullname}		ario triguna
+${hp}			0872637218
+
 
 *** Keywords ***
 Open Kitabisa
