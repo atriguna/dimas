@@ -6,7 +6,7 @@ Library   OperatingSystem
 ${Browser}      Chrome
 ${SiteUrl}      https://flip.id/signup
 ${Delay}        25s
-@{user}			ario triguna  aryotriguna3@gmail.com  88Ario88	08170150589  bekasi barat
+@{user}			ario dimas  aryotriguna39@gmail.com  88Ario89	08380150589  bekasi barat
 
 
 *** Keywords ***
